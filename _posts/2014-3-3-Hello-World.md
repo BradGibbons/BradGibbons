@@ -1,10 +1,11 @@
 ---
-layout: post
-title: You're up and running!
+layout: Test
+title: Mic Check 1 2, Check, Check.
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+> Lorem ipsum dolor amet try-hard air plant tumeric normcore. Bitters cray whatever bespoke helvetica organic intelligentsia  > you probably haven't heard of them lomo hammock neutra.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Sartorial unicorn meh palo santo. 90's schlitz mumblecore taiyaki, echo park you probably haven't heard of them knausgaard bespoke. Unicorn seitan meh taxidermy readymade XOXO locavore ugh echo park, before they sold out chicharrones farm-to-table. Enamel pin forage sriracha craft beer freegan typewriter pug chicharrones.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+***
+Lorem ipsum dolor amet try-hard air plant tumeric normcore. Bitters cray whatever bespoke helvetica organic intelligentsia you probably haven't heard of them lomo hammock neutra. Sartorial unicorn meh palo santo. 90's schlitz mumblecore taiyaki, echo park you probably haven't heard of them knausgaard bespoke. Unicorn seitan meh taxidermy readymade XOXO locavore ugh echo park, before they sold out chicharrones farm-to-table. Enamel pin forage sriracha craft beer freegan typewriter pug chicharrones.
