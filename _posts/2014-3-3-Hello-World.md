@@ -1,7 +1,7 @@
----
-layout: Test
-title: Mic Check 1 2, Check, Check.
----
+
+# Test
+## Mic Check 1 2, Check, Check.
+
 
 > Lorem ipsum dolor amet try-hard air plant tumeric normcore. Bitters cray whatever bespoke helvetica organic intelligentsia  > you probably haven't heard of them lomo hammock neutra.
 
